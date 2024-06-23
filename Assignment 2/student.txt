@@ -1,0 +1,103 @@
+StudentId = 100
+Name = Matty Damon
+Address = 469 Hollywood Boulevard, Oscar Mansion2, Malaysia 7666333
+DOB = 23-07-1978
+PhoneNumber = 150-3298
+Course = CS
+CGPA = 3.32076
+
+StudentId = 50
+Name = Benny Affleck
+Address = 900 Huntington Street, Malaysia 784509
+DOB = 12-11-1978
+PhoneNumber = 902-4565
+Course = IB
+CGPA = 3.82032
+
+StudentId = 150
+Name = Salmi Hayekka
+Address = 90 Mexicana Boulevard2, Hotel LA, Malaysia 678822
+DOB = 18-03-1983
+PhoneNumber = 870-1111
+Course = CS
+CGPA = 3.56076
+
+StudentId = 25
+Name = Phua Chi Kong
+Address = 32 PCK Avenue3, Malaysia 639709
+DOB = 09-02-1979
+PhoneNumber = 295-6751
+Course = CS
+CGPA = 2.92076
+
+StudentId = 70
+Name = Zoey Tan
+Address = 231 Blue Eyee Street, Malaysia 126867
+DOB = 16-07-1998
+PhoneNumber = 876-1255
+Course = CS
+CGPA = 2.09076
+
+StudentId = 123
+Name = Juliet Robertto
+Address = 93 Brokom Street, Malaysia 186476
+DOB = 16-12-1988
+PhoneNumber = 676-4390
+Course = IB
+CGPA = 3.92678
+
+StudentId = 176
+Name = John Wong
+Address = 111 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+PhoneNumber = 790-3233
+Course = CS
+CGPA = 3.12076
+
+StudentId = 15
+Name = Shirley Chan
+Address = 222 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+PhoneNumber = 432-4579
+Course = IB
+CGPA = 3.12076
+
+StudentId = 40
+Name = Ben Lai
+Address = 333 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+PhoneNumber = 790-0000
+Course = CS
+CGPA = 3.12076
+
+StudentId = 98
+Name = Louis Ma
+Address = 444 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+PhoneNumber = 345-6780
+Course = CS
+CGPA = 3.12076
+
+StudentId = 108
+Name = Mary Lee
+Address = 555 Blue Eyed St, Malaysia 456872
+DOB = 15-02-1968
+PhoneNumber = 456-1234
+Course = CS
+CGPA = 3.12076
+
+StudentId = 139
+Name = Audrey Wong
+Address = 666 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 45
+Name = Raymond Lau
+Address = 777 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
